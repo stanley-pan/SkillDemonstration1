@@ -5,6 +5,6 @@ public class CombineStringTest {
     @Test
     public void CombineStringTest(){
         String result = CombineString.CombineString("blue", "berry");
-        assertEquals("greenberry", result); // wrong test
+        assertEquals("blueberry", result); // wrong test
     }
 }
